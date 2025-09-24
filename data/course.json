@@ -1,0 +1,52 @@
+{
+  "term": "Fall",
+  "year": "2010",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Information Technology"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Microeconomics"
+    ],
+    [
+      "Business",
+      "Organizational Behavior"
+    ]
+  ],
+  "legacy_uid": "e5ec2090-4fac-9a2a-3dd5-f8c79e2a1fcb",
+  "instructors": {
+    "content": [
+      "e05c917e-e820-1073-fd45-4bc046bf3678"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "865a081f-d74c-71b8-6e95-e13b91c2af76",
+    "website": "15-567-the-economics-of-information-strategy-structure-and-pricing-fall-2010"
+  },
+  "course_title": "The Economics of Information: Strategy, Structure and Pricing",
+  "course_description": "_15.567 The Economics of Information_ provides an analysis of the underlying economics of information with management implications. It studies the effects of digitization and technology on industry, organizational structure, and business strategy, and examines pricing, bundling, and versioning of digital goods, including music, video, software, and communication services. In addition, the course considers the managerial implications of social networks, search, targeted advertising, personalization, privacy, network externalities, open source, and alliances.\n",
+  "department_numbers": [
+    "15"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "15.567",
+  "course_image_thumbnail": {
+    "content": "e92610ea-55df-09f5-d293-102891e835f1",
+    "website": "15-567-the-economics-of-information-strategy-structure-and-pricing-fall-2010"
+  },
+  "learning_resource_types": [
+    "Projects with Examples",
+    "Written Assignments"
+  ],
+  "site_uid": "52baa7fc-e06d-43aa-9277-c02bb2dfedae",
+  "site_short_id": "15.567-fall-2010",
+  "site_url_path": "courses/15-567-the-economics-of-information-strategy-structure-and-pricing-fall-2010",
+  "title": "Course Metadata"
+}
