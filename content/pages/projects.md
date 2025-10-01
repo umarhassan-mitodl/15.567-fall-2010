@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides a summary of the team project of the course, details
   on two project options, the schedule of deliverables, and examples of student projects.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 ocw_type: CourseSection

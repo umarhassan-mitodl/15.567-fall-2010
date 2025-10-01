@@ -4,6 +4,8 @@ description: This resource contains information related to report guidelines.
 file: /courses/15-567-the-economics-of-information-strategy-structure-and-pricing-fall-2010/6f4cde780fa37f8d108da658cbe5654d_MIT15_567F10_proj_guide01.pdf
 file_size: 51806
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Projects
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -31,6 +31,7 @@
     "website": "15-567-the-economics-of-information-strategy-structure-and-pricing-fall-2010"
   },
   "course_title": "The Economics of Information: Strategy, Structure and Pricing",
+  "hide_download": true,
   "course_description": "_15.567 The Economics of Information_ provides an analysis of the underlying economics of information with management implications. It studies the effects of digitization and technology on industry, organizational structure, and business strategy, and examines pricing, bundling, and versioning of digital goods, including music, video, software, and communication services. In addition, the course considers the managerial implications of social networks, search, targeted advertising, personalization, privacy, network externalities, open source, and alliances.\n",
   "department_numbers": [
     "15"
@@ -41,6 +42,7 @@
     "content": "e92610ea-55df-09f5-d293-102891e835f1",
     "website": "15-567-the-economics-of-information-strategy-structure-and-pricing-fall-2010"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Projects with Examples",
     "Written Assignments"

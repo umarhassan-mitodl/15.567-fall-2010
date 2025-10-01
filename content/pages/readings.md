@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides citations for course textbooks and the schedule
   of readings by lecture session.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -22,13 +24,13 @@ Textbooks and Readings
 
 Saloner, Garth, and A. Michael Spence. _Creating and Capturing Value: Perspectives and Cases on Electronic Commerce_. New York, NY: John Wiley & Sons, 2001. ISBN: 9780471410157.
 
-{{% resource_link "db5b0e2e-66e8-4a3c-9ab7-ef96d5cb750b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Brynjolfsson, Erik, and Brian Kahin, eds. _Understanding the Digital Economy_. Cambridge, MA: MIT Press, 2000. ISBN: 9780262024747.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262024747) Brynjolfsson, Erik, and Brian Kahin, eds. _Understanding the Digital Economy_. Cambridge, MA: MIT Press, 2000. ISBN: 9780262024747.
 
 Liebowitz, Stan. _Re-Thinking the Network Economy: The True Forces that Drive the Digital Marketplace_. New York, NY: American Management Association, 2002. ISBN: 9780814406496.
 
 Varian, Hal, Joe Farrell, and Carl Shapiro. _The Economics of Information Technology: An Introduction_. Cambridge, UK: Cambridge University Press, 2005. ISBN: 9780521605212.
 
-{{% resource_link "47b417a3-5c53-4d87-85f7-871be9886b5d" "_Sloan Management Review_" %}}
+[_Sloan Management Review_](http://sloanreview.mit.edu/)
 
 {{< tableopen >}}
 {{< theadopen >}}
@@ -60,7 +62,7 @@ The economics of information
 
 McAfee, Andrew, and Erik Brynjolfsson. "Investing in the IT That Makes a Competitive Difference." _Harvard Business Review Magazine_, July-August 2008.
 
-———. "{{% resource_link "b1f4b745-b741-45fa-aa70-4071d21f12b1" "Dog Eat Dog: Industries That Buy a Lot of Technology Are Becoming as Cutthroat as Those That Produce Technology" %}}." _Wall Street Journal_ (April 28, 2007).
+———. "[Dog Eat Dog: Industries That Buy a Lot of Technology Are Becoming as Cutthroat as Those That Produce Technology](http://online.wsj.com/article/SB117735476945179344.html)." _Wall Street Journal_ (April 28, 2007).
 
 ### Optional
 
@@ -114,13 +116,13 @@ Differential pricing, signaling and screening
 
 Varian, Hal. "Buying, Sharing, and Renting Information Goods." _The Journal of Industrial Economics_ 48, no. 4 (2000): 473-88.
 
-Schoder, Detlef, and Alex Talalayevsky. "{{% resource_link "89c7d665-b3fb-48b1-a73b-d7cbd6a27397" "The Price Isn't Right" %}}." _Wall Street Journal_ (August 23, 2010).
+Schoder, Detlef, and Alex Talalayevsky. "[The Price Isn't Right](http://online.wsj.com/article/SB10001424052748704107204574469331141323104.html)." _Wall Street Journal_ (August 23, 2010).
 
-Miller, Evan. "{{% resource_link "8045d07d-1951-45b3-bf37-40b31c3f378b" "Golden Footballs and the Economics of Groupon" %}}."
+Miller, Evan. "[Golden Footballs and the Economics of Groupon](https://web.archive.org/web/20101130215148/http://www.evanmiller.org/golden-football.html)."
 
-Hamermesh, Daniel. "{{% resource_link "3add41c3-f105-4994-abca-1644ebeb41a9" "What Do Books and Roses Say About Discounting?" %}}" _New York Times_, February 23, 2009.
+Hamermesh, Daniel. "[What Do Books and Roses Say About Discounting?](http://freakonomics.com/2008/12/15/what-do-books-and-roses-say-about-discounting/)" _New York Times_, February 23, 2009.
 
-Wertheimer, Linda. "{{% resource_link "b4085c51-0640-41fc-a1ce-3fa1364671e1" "New Pricing Plan Soon to Be for Online Music" %}}." _National Public Radio_, July 27, 2009.
+Wertheimer, Linda. "[New Pricing Plan Soon to Be for Online Music](http://www.npr.org/templates/story/story.php?storyId=111046679)." _National Public Radio_, July 27, 2009.
 
 ### Optional
 
@@ -128,7 +130,7 @@ Wertheimer, Linda. "{{% resource_link "b4085c51-0640-41fc-a1ce-3fa1364671e1" "Ne
 
 "Versioning Information." Chapter 3 in \[S&V\].
 
-{{% resource_link "6ac8baf5-6974-453a-a136-2d5801dbae96" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Tirole, Jean. {{% resource_link "6ac8baf5-6974-453a-a136-2d5801dbae96" "_The Theory of Industrial Organization_" %}}. Cambridge, MA: MIT Press, 1988, chapter 3, pp. 133-152. ISBN: 9780262200714.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262200714) Tirole, Jean. [_The Theory of Industrial Organization_](https://mitpress.mit.edu/9780262200714). Cambridge, MA: MIT Press, 1988, chapter 3, pp. 133-152. ISBN: 9780262200714.
 
 Shiller, Ben, and Joel Waldfogel. "Music for a Song: An Empirical Look at Uniform Song Pricing and its Alternatives." _Working Paper_. Philadelphia, PA: Wharton School, University of Pennsylvania, June 17, 2008.
 
@@ -150,9 +152,9 @@ Bundling and aggregation
 
 Brandenburger, Adam, and Krishna Vijay. "Bundling." Harvard Business School Case. Boston, MA: Harvard Business School Publishing. Case: 9-191-177, April 10, 1995.
 
-{{% resource_link "ecad3723-745e-4c9a-9605-1d0434bea3a6" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Bakos, Yannis, and Erik Brynjolfsson. "Aggregation and Disaggregation of Information Goods: Implications for Bundling, Site Licensing and Micropayment Systems." In {{% resource_link "ecad3723-745e-4c9a-9605-1d0434bea3a6" "_Internet Publishing and Beyond: The Economics of Digital Information and Intellectual Property_" %}}. Edited by Hal Varian, and Brian Kahin. Cambridge, MA: MIT Press, 2000. ISBN: 9780262611596.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262611596) Bakos, Yannis, and Erik Brynjolfsson. "Aggregation and Disaggregation of Information Goods: Implications for Bundling, Site Licensing and Micropayment Systems." In [_Internet Publishing and Beyond: The Economics of Digital Information and Intellectual Property_](https://mitpress.mit.edu/9780262611596). Edited by Hal Varian, and Brian Kahin. Cambridge, MA: MIT Press, 2000. ISBN: 9780262611596.
 
-Albanesius, Chloe. "{{% resource_link "94813ace-ee00-43d8-94ff-ac11cfbbddb2" "If Sirius-XM Can Offer A La Carte Programs, Why Can't Cable?" %}}" _PC Magazine_, July 30, 2008.
+Albanesius, Chloe. "[If Sirius-XM Can Offer A La Carte Programs, Why Can't Cable?](http://www.pcmag.com/article2/0,2817,2326817,00.asp)" _PC Magazine_, July 30, 2008.
 
 ### Optional
 
@@ -176,7 +178,7 @@ Search and competition
 
 ### Required
 
-{{% resource_link "db5b0e2e-66e8-4a3c-9ab7-ef96d5cb750b" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Smith, Bailey, and Erik Brynjolfsson. "Understanding Digital Markets." In _Understanding the Digital Economy_. Edited by Erik Brynjolfsson, and Brian Kahin. Cambridge, MA: MIT Press, 2000. ISBN: 9780262024747.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262024747) Smith, Bailey, and Erik Brynjolfsson. "Understanding Digital Markets." In _Understanding the Digital Economy_. Edited by Erik Brynjolfsson, and Brian Kahin. Cambridge, MA: MIT Press, 2000. ISBN: 9780262024747.
 
 ### Optional
 
@@ -222,15 +224,15 @@ Pricing at zero
 
 ### Required
 
-Anderson, Chris. "{{% resource_link "e6cca401-07aa-4e19-9a89-dca8b9d08faf" "Free! Why $0.00 Is the Future of Business" %}}." _Wired Magazine_, February 25, 2008.
+Anderson, Chris. "[Free! Why $0.00 Is the Future of Business](http://www.wired.com/techbiz/it/magazine/16-03/ff_free)." _Wired Magazine_, February 25, 2008.
 
 Parker, Geoffrey, and Marshall W. Van Alstyne. "Two-Sided Network Effects: A Theory of Information Product Design." _Management Science_ 51, no. 10 (2005): 1494-1504.
 
-Gladwell, Malcolm. "{{% resource_link "a0881ad2-d4c2-4c1a-a759-c3f58869c851" "Priced to Sell: Is Free the Future?" %}}" _The New Yorker_, July 6, 2009.
+Gladwell, Malcolm. "[Priced to Sell: Is Free the Future?](http://www.newyorker.com/arts/critics/books/2009/07/06/090706crbo_books_gladwell)" _The New Yorker_, July 6, 2009.
 
-Pulley, Brett, and Andy Fixmer. "{{% resource_link "8453384c-81a5-424e-8c5b-7b4d29459103" "Diller Calls Free Web Content a 'Myth, Joins Refrain" %}}." _Bloomberg News_, July 24, 2009.
+Pulley, Brett, and Andy Fixmer. "[Diller Calls Free Web Content a 'Myth, Joins Refrain](http://www.bloomberg.com/news/articles/2009-07-24/diller-calls-free-web-content-a-myth-joining-media-refrain)." _Bloomberg News_, July 24, 2009.
 
-Rich, Motoko. "{{% resource_link "1735dcd4-466f-4ed0-994a-671d27a6e4e2" "With Kindle, the Best Sellers Don't Need to Sell" %}}." _New York Times_, January 22, 2010.
+Rich, Motoko. "[With Kindle, the Best Sellers Don't Need to Sell](http://www.nytimes.com/2010/01/23/books/23kindle.html)." _New York Times_, January 22, 2010.
 
 ### Optional
 
@@ -260,9 +262,9 @@ Siegel, Micah, and Fred Gibbons. "Amazon Enters the Cloud Computing Business." S
 
 ### Optional
 
-Stone, Brad. "{{% resource_link "7cc75a2a-90a3-4217-9066-cafc590db25a" "Can Amazon be the Wal-Mart of the Web?" %}}" _New York Times_, September 20, 2009.
+Stone, Brad. "[Can Amazon be the Wal-Mart of the Web?](http://www.nytimes.com/2009/09/20/business/20amazon.html)" _New York Times_, September 20, 2009.
 
-Wilke, Jeff. "{{% resource_link "224acfc3-455e-4bf6-b215-3aebaa710fe2" "Geeking Out at Amazon" %}}." _Technology Review_, November-December 2007.
+Wilke, Jeff. "[Geeking Out at Amazon](https://www.technologyreview.com/2007/10/15/223422/geeking-out-at-amazon/)." _Technology Review_, November-December 2007.
 
 
 {{< tdclose >}}
@@ -282,11 +284,11 @@ Targeted advertising: Google
 
 Edelman, Benjamin, and Thomas Eisenmann. "Google Inc." Harvard Business School Case. Boston, MA: Harvard Business School Publishing. Case: 910036-PDFENG, January 28, 2010.
 
-Levy, Steven. "{{% resource_link "35b9ba48-add4-4d16-bdef-9b614fff3e1b" "Secret of Googlenomics: Data-Fueled Recipe Brews Profitability" %}}." _Wired Magazine_, May 22, 2009.
+Levy, Steven. "[Secret of Googlenomics: Data-Fueled Recipe Brews Profitability](http://www.wired.com/culture/culturereviews/magazine/17-06/nep_googlenomics?currentPage=all)." _Wired Magazine_, May 22, 2009.
 
 ### Optional
 
-Varian, Hal. "The Economics of Internet Search." Anglo Costa lecture. Rome, Italy, February 2007. ({{% resource_link "29547649-764c-4256-bb50-e4fb1e876ad2" "PDF" %}})
+Varian, Hal. "The Economics of Internet Search." Anglo Costa lecture. Rome, Italy, February 2007. ([PDF](http://people.ischool.berkeley.edu/~hal/Papers/2007/costa-lecture.pdf))
 
 
 {{< tdclose >}}
@@ -316,7 +318,7 @@ The long tail
 
 ### Required
 
-Anderson, Chris. "{{% resource_link "47890bcb-aa57-4598-aee0-ab3b6c194142" "The Long Tail" %}}." _Wired Magazine_, October 2004.
+Anderson, Chris. "[The Long Tail](http://www.wired.com/wired/archive/12.10/tail.html)." _Wired Magazine_, October 2004.
 
 Brynjolfsson, Erik, Yu (Jeffrey) Hu, and Michael D. Smith. "Consumer Surplus in the Digital Economy: Estimating the Value of Increased Product Variety at Online Booksellers," _Management Science_ 49, no. 11 (2003): 1580-1596.
 
@@ -324,7 +326,7 @@ Brynjolfsson, Erik, Yu (Jeffrey) Hu, and Michael D. Smith. "Consumer Surplus in 
 
 Brynjolfsson, Erik, Yu (Jeffrey) Hu, and Mohammad Rahman. "Battle of the Retail Channels: How Product Selection and Geography Drive Cross-channel Competition." _Management Science_ 55, no. 11 (2009): 1755-1765.
 
-Varian, Hal R. "{{% resource_link "e798bff9-71e1-4867-8e59-5ab560ad5e2d" "Reading Between the Lines of Used Book Sales" %}}." _New York Times_, July 28, 2005.
+Varian, Hal R. "[Reading Between the Lines of Used Book Sales](http://www.nytimes.com/2005/07/28/technology/28scene.html)." _New York Times_, July 28, 2005.
 
 Garrity, Brian. "DMG Bets on 'Long Tail'." _Billboard_, February 18, 2006.
 
@@ -344,7 +346,7 @@ Deep QA and knowledge work
 
 ### Required
 
-Thompson, Clive. "{{% resource_link "6d8f133c-6953-4572-a160-a14b774af3e8" "What is IBM's Watson?" %}}" _New York Times Magazine_, June 16, 2010.
+Thompson, Clive. "[What is IBM's Watson?](http://www.nytimes.com/2010/06/20/magazine/20Computer-t.html)" _New York Times Magazine_, June 16, 2010.
 
 Hayek, F. A. "The Use of Knowledge in Society." _American Economic Review_ 35, no. 4 (1945): 519-530.
 
@@ -434,7 +436,7 @@ Chapter 6 in \[B&S\].
 
 Stallman, Richard. "Why Software Should Not Have Owners." In _Free Software, Free Society: Selected Essays of Richard M. Stallman_. Boston, MA: Free Software Foundation, 2002. ISBN: 9781441436207.
 
-U. S. Copyright Office. _Digital Millennium Copyright Act summary_, December 1998. ({{% resource_link "c0e1b0e7-c00c-4477-8d78-8e05284786b4" "PDF" %}})
+U. S. Copyright Office. _Digital Millennium Copyright Act summary_, December 1998. ([PDF](http://www.copyright.gov/legislation/dmca.pdf))
 
 Besen, Stanley M., and Leo J. Raskind. "An Introduction to the Law and Economics of Intellectual Property." _Journal of Economic Perspectives_ 5, no. 1 (1991): 3-27.
 
@@ -460,7 +462,7 @@ Hopkins, Michael S. "The 4 Ways IT is Driving Innovation: An Interview with Erik
 
 Kohavi, Ron, Roger Longbotham, and Toby Walker. "Online Experiments: Practical Lessons." _IEEE Computer_ 43, no. 9 (2010): 82-85.
 
-Brynjolfsson, Erik, and Michael Schrage. "{{% resource_link "71dd915e-1a83-41e0-b370-b08431d74b28" "The New, Faster Face of Innovation: Thanks to Technology, Change Has Never Been So Easy- or So Cheap" %}}." _Wall Street Journal_ (August 17, 2009).
+Brynjolfsson, Erik, and Michael Schrage. "[The New, Faster Face of Innovation: Thanks to Technology, Change Has Never Been So Easy- or So Cheap](http://online.wsj.com/article/SB10001424052970204830304574130820184260340.html)." _Wall Street Journal_ (August 17, 2009).
 
 
 {{< tdclose >}}
